@@ -4,7 +4,7 @@
 
 
 <hr style="width:50%;text-align:left;margin-left:0">
-<h4 align="center">Projects that I created on my learning progress</h4>  
+<h4 align="center">Projects that I created on my learning process</h4>  
 
 **For Golang:**
 
@@ -39,7 +39,7 @@
 - [Mvc](https://github.com/gultekinmsg/TodoListMVC)
 - [Java](https://github.com/gultekinmsg/javasamples)
 
-<h4 align="center">Some projects I created for assignments of companies.</h4>
+<h4 align="center">Some projects I created for assignments of companies</h4>
 
 - [Survey indicator backend](https://github.com/gultekinmsg/volthreadreporting)
 - [Todo application backend](https://github.com/gultekinmsg/todoapp)
