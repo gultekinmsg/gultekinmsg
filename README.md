@@ -43,9 +43,9 @@
 
 - [Survey indicator backend](https://github.com/gultekinmsg/volthreadreporting)
 - [Todo application backend](https://github.com/gultekinmsg/todoapp)
-- [Bill approving status tracker](https://github.com/gultekinmsg/accountingapproval)
-- [Basic gamifiying frontend](https://github.com/gultekinmsg/game-ui)
-- [Basic gamifiying backend](https://github.com/gultekinmsg/game-api)
+- [Bill status tracker backend](https://github.com/gultekinmsg/accountingapproval)
+- [Basic gamifying frontend](https://github.com/gultekinmsg/game-ui)
+- [Basic gamifying backend](https://github.com/gultekinmsg/game-api)
 - [Todo list backend](https://github.com/gultekinmsg/todolist_server)
 
 <h3 align="left">Connect with me:</h3>  
