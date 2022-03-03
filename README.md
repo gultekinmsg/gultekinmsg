@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Muhammed</h1>  
-<h3 align="center">I am a Full-stack Engineer with a backend history. For more information about <a href="https://www.linkedin.com/in/gultekinmsg/">me</a>.</h3>  
+<h3 align="center">I am a Full-stack Engineer with a backend history. More information about <a href="https://www.linkedin.com/in/gultekinmsg/">me</a>.</h3>  
 
 
 <hr style="width:50%;text-align:left;margin-left:0">
