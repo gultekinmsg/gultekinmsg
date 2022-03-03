@@ -23,6 +23,11 @@
 - [Counter](https://github.com/gultekinmsg/Counter)
 - [Echo](https://github.com/gultekinmsg/Echo)
 
+**For Flutter, Dart**
+
+- [WheatherApp](https://github.com/gultekinmsg/weather_app)
+- [Library](https://github.com/gultekinmsg/book_tracker)
+
 **For Gauge-Taiko**
 
 - [Acceptances](https://github.com/gultekinmsg/Acceptances)
