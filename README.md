@@ -34,7 +34,7 @@
 - [Mvc](https://github.com/gultekinmsg/TodoListMVC)
 - [Java](https://github.com/gultekinmsg/javasamples)
 
-<h4 align="center">Some Assignments I created for companies.</h4>
+<h4 align="center">Some projects I created for assignments of companies.</h4>
 
 - [Survey indicator backend](https://github.com/gultekinmsg/volthreadreporting)
 - [Todo application backend](https://github.com/gultekinmsg/todoapp)
