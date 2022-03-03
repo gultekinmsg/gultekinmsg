@@ -1,16 +1,51 @@
-### Hi there 👋
 
-<!--
-**gultekinmsg/gultekinmsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Muhammed</h1>  
+<h3 align="center">I am a Full-stack Engineer with a backend history. For more information about <a href="https://www.linkedin.com/in/gultekinmsg/">me</a>.</h3>  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr style="width:50%;text-align:left;margin-left:0">
+<h4 align="center">Projects that I created on my learning progress</h4>  
+
+**For Golang:**
+
+- [ShoppingCardApi](https://github.com/gultekinmsg/ShoppingCardApi)
+- [LedgerBookApi](https://github.com/gultekinmsg/LedgerBookApi)
+- [FizzBuzz](https://github.com/gultekinmsg/FizzBuzz)
+- [NumberChanger](https://github.com/gultekinmsg/NumberChanger)
+- [ListStacker](https://github.com/gultekinmsg/ListStacker)
+- [MorseCode](https://github.com/gultekinmsg/MorseCode)
+
+**For Js, Vue.js and Nuxt.js**
+
+- [LedgerBook](https://github.com/gultekinmsg/LedgerBook)
+- [ShoppingCard](https://github.com/gultekinmsg/ShoppingCard)
+- [Flachcard](https://github.com/gultekinmsg/Flachcard)
+- [Counter](https://github.com/gultekinmsg/Counter)
+- [Echo](https://github.com/gultekinmsg/Echo)
+
+**For Gauge-Taiko**
+
+- [Acceptances](https://github.com/gultekinmsg/Acceptances)
+
+**Java:**
+
+- [BasicGame](https://github.com/gultekinmsg/guess-the-number-game)
+- [JavaFx](https://github.com/gultekinmsg/JavaFX)
+- [Mvc](https://github.com/gultekinmsg/TodoListMVC)
+- [Java](https://github.com/gultekinmsg/javasamples)
+
+<h4 align="center">Some Assignments I created for companies.</h4>
+
+- [Survey indicator backend](https://github.com/gultekinmsg/volthreadreporting)
+- [Todo application backend](https://github.com/gultekinmsg/todoapp)
+- [Bill approving status tracker](https://github.com/gultekinmsg/accountingapproval)
+- [Basic gamifiying frontend](https://github.com/gultekinmsg/game-ui)
+- [Basic gamifiying backend](https://github.com/gultekinmsg/game-api)
+- [Todo list backend](https://github.com/gultekinmsg/todolist_server)
+
+<h3 align="left">Connect with me:</h3>  
+<p align="left">  
+<a href="https://linkedin.com/in/gultekinmsg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gultekinmsg" height="30" width="40" /></a>  
+<a href="https://gitlab.com/gultekinmsg" target="blank"><img align="center" src="https://about.gitlab.com/images/press/logo/svg/gitlab-icon-rgb.svg" alt="gultekinmsg" height="30" width="40" /></a>  
+</p>
+
