@@ -15,7 +15,7 @@
 - [ListStacker](https://github.com/gultekinmsg/ListStacker)
 - [MorseCode](https://github.com/gultekinmsg/MorseCode)
 
-**For Js, Vue.js and Nuxt.js**
+**For Js, Vue.js, Nuxt.js**
 
 - [LedgerBook](https://github.com/gultekinmsg/LedgerBook)
 - [ShoppingCard](https://github.com/gultekinmsg/ShoppingCard)
