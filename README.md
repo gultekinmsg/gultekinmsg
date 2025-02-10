@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammed</h1>
 <h3 align="center">I am a Backend Developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gultekinmsg&label=Profile%20views&color=0e75b6&style=flat" alt="gultekinmsg" /> </p>
 
 - 🔭 I’m currently working for [Fairmoney](https://fairmoney.io/)
 
@@ -20,3 +19,4 @@
 <a href="https://linkedin.com/in/gultekinmsg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gultekinmsg" height="30" width="40" /></a>
 <a href="https://gitlab.com/gultekinmsg" target="blank"><img align="center" src="https://about.gitlab.com/images/press/logo/svg/gitlab-icon-rgb.svg" alt="gultekinmsg" height="30" width="40" /></a>  
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gultekinmsg&label=Profile%20views&color=0e75b6&style=flat" alt="gultekinmsg" /> </p>
