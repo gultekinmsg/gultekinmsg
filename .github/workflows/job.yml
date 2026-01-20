@@ -39,6 +39,23 @@ jobs:
           path: profile/pin-readme-tools-github-readme-stats.svg
           token: ${{ secrets.TOKEN_GH }}
 
+
+      - name: Generate pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: wakatime
+          options: username=readme-tools&repo=github-readme-stats
+          path: profile/wakatime.svg
+          token: ${{ secrets.TOKEN_GH }}
+
+      - name: Generate pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: gist
+          options: username=readme-tools&repo=github-readme-stats
+          path: profile/gist.svg
+          token: ${{ secrets.TOKEN_GH }}
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
