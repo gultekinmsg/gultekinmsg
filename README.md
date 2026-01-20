@@ -2,7 +2,11 @@
 <h3 align="center">I am an Software Engineer</h3>
 
 
-- 🔭 I’m currently working for [Fairmoney](https://fairmoney.io/)
+-  I’m currently working for [Fairmoney](https://fairmoney.io/)
+
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
