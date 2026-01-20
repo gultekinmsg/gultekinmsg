@@ -7,6 +7,8 @@
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+![Gist](./profile/gist.svg)
+![WakaTime](./profile/wakatime.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
