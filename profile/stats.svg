@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Muhammed Said G&#252;ltekin's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 7, Total Commits  (last year) : 1644, Total PRs: 1258, Total PRs Merged: 1035, Merged PRs Percentage: 82.27, Total PRs Reviewed: 680, Contributed to (last year): 28</desc>
+        <desc id="descId">Total Stars Earned: 7, Total Commits  (last year) : 1650, Total PRs: 1264, Total PRs Merged: 1041, Merged PRs Percentage: 82.36, Total PRs Reviewed: 681, Contributed to (last year): 28</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 102.63134439325466;
+        stroke-dashoffset: 102.62410082213793;
       }
     }
   
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >82.27 %</text>
+      >82.36 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -237,7 +237,7 @@
         x="219.01"
         y="12.5"
         data-testid="reviews"
-      >680</text>
+      >681</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
